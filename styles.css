@@ -1,0 +1,35 @@
+body{
+    background-color: bisque;
+}
+
+
+
+body>*{
+    background-color: aliceblue;
+    margin: 30px;
+    padding: 10px;
+    width: auto;
+}
+
+ul,ol{
+    background-color: aliceblue;
+    margin: 30px;
+    margin-top: 0px;
+    padding: 10px;
+    padding-left: 25px;
+    width: auto;
+}
+
+ol{
+    padding-left:30px;
+}
+
+figure{
+    display:inline-block;
+    padding:15px;
+}
+
+h4{
+    margin-bottom:0px;
+}
+
